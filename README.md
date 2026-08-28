@@ -56,7 +56,7 @@ The project is designed to demonstrate practical concepts of **Java, File Handli
 
 ---
 
-## 🔐 Password Protection
+<!-- ## 🔐 Password Protection
 
 The application supports password-protected packed files.
 
