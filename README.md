@@ -12,7 +12,6 @@ The application provides a modern graphical interface with **file/folder selecti
 
 GitHub:  
 https://github.com/ajaydeshmukh29
-
 ---
 
 ## 📌 Project Overview
