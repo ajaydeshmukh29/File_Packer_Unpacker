@@ -1,12 +1,12 @@
 ////////////////////////////////////////////////////////////////////
 //
-// Project     : Java File Packer / Unpacker
+//     Project     : Java File Packer / Unpacker
 // 
-// Description : Packs all files from a folder into a single
+//     Description : Packs all files from a folder into a single
 //               archive file, and unpacks that archive back
 //               into the original files, via a Swing GUI.
 //
-// Author      : Ajay Dnyaneshwar Deshmukh
+//     Author      : Ajay Dnyaneshwar Deshmukh
 // GitHub      : ajaydeshmukh29
 // Date        : 20-Aug-2026
 ////////////////////////////////////////////////////////////////////
