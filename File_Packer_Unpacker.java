@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////
 //
-// Project     : Java File Packer / Unpacker (GUI)
+// Project     : Java File Packer / Unpacker
 // 
 // Description : Packs all files from a folder into a single
 //               archive file, and unpacks that archive back
