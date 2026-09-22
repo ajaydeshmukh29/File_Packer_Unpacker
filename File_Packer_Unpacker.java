@@ -7,8 +7,8 @@
 //               into the original files, via a Swing GUI.
 //
 //     Author      : Ajay Dnyaneshwar Deshmukh
-// GitHub      : ajaydeshmukh29
-// Date        : 20-Aug-2026
+//     GitHub      : ajaydeshmukh29
+//     Date        : 20-Aug-2026
 ////////////////////////////////////////////////////////////////////
 
 import java.io.File;
