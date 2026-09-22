@@ -1,4 +1,4 @@
-# 🔐 File Packer-Unpacker
+#  File Packer-Unpacker
 
 A **Java Swing based desktop application** for securely packing multiple files into a single `.pak` file and unpacking them when required.
 
