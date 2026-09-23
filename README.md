@@ -8,7 +8,7 @@ The application provides a modern graphical interface with **file/folder selecti
 
 ## 👨‍💻 Author
 
-**Ajay Deshmukh**
+**Ajay Dnyaneshwar Deshmukh**
 
 GitHub:  
 https://github.com/ajaydeshmukh29
